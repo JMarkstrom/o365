@@ -62,3 +62,4 @@ html_theme_options = {
 'sticky_navigation': True
 }
 html_logo = '_static/thales_logo.png'
+html_favicon = 'favicon.ico'
