@@ -28,7 +28,7 @@ WIP
 Federating Office 365 to SafeNet Trusted Access
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-WIP
+..youtube:: ecSAiq9g5P8
 
 
 Running the integration script
