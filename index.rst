@@ -19,11 +19,15 @@ Office 365
 
 Overview
 ^^^^^^^^
-WIP
+This guide documents O365 federation with SafeNet Trusted Access (STA) and various related aspects.
 
 Prerequisites
 =============
-WIP
+In order to successfully follow this guide the following prerequisites must be met:
+
+#. You have Operator privilege on a SafeNet Trusted Access (STA) tenant
+#. You have Administrator privilege on the O365 domain to be federated
+
 
 Federating Office 365 to SafeNet Trusted Access
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
