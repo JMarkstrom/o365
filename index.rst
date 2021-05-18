@@ -32,7 +32,11 @@ In order to successfully follow this guide the following prerequisites must be m
 Federating Office 365 to SafeNet Trusted Access
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. youtube:: ecSAiq9g5P8
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube-nocookie.com/embed/ecSAiq9g5P8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 
 
 Running the integration script
